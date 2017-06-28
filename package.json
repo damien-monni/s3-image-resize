@@ -1,0 +1,13 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "Serverless image resizing",
+  "readme": "Serverless image resizing",
+  "repository": "https://github.com/damien-monni/s3-image-resize",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "gm": "^1.23.0"
+  },
+  "devDependencies": {}
+}
