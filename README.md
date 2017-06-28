@@ -1,3 +1,5 @@
+*** This is not a library. Just a piece of code I am using in one of my project. ***
+
 # S3 Image Resize
 
 An AWS Lambda function to resize an image after it was uploaded to AWS S3.
