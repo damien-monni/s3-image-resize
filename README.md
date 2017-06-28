@@ -1,4 +1,4 @@
-*** This is not a library. Just a piece of code I am using in one of my project. ***
+***This is not a library. Just a piece of code I am using in one of my project.***
 
 # S3 Image Resize
 
@@ -24,4 +24,4 @@ This function uses GraphicsMagick `gm` npm module to resize the image.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
